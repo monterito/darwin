@@ -1,5 +1,5 @@
 <?php
 
-include('/libs/Smarty.class.php');
+include('libs/Smarty.class.php');
 
 ?>

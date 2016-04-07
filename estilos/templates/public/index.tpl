@@ -1,5 +1,5 @@
 <html>
-<head><title>Äcceso de usuarios:</title></head>
+<head><title>Acceso de usuarios:</title></head>
     <body>
     <h1>Login </h1>
     <form action="index.php?modo=login" method="post">
@@ -8,6 +8,8 @@
         <br/>
         <label>Password:</label>
         <input type="text" name="password"/>
+
+        <br/><br/>
         <input type="hidden" name="login" value="1"/>
         <input type="submit" value="Iniciar Session"/>
     </form>

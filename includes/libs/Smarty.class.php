@@ -288,7 +288,7 @@ class Smarty extends Smarty_Internal_TemplateBase
      *
      * @var array
      */
-    private $template_dir = array('./estilos/templates/public');
+    private $template_dir = array('./estilos/templates/public/');
 
     /**
      * joined template directory string used in cache keys
